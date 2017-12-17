@@ -1,4 +1,4 @@
-package com.ronda.barcodescanner;
+﻿package com.ronda.barcodescanner;
 
 import android.accessibilityservice.AccessibilityService;
 import android.util.Log;
@@ -61,4 +61,5 @@ public class KeyEventService extends AccessibilityService {
 
         return super.onKeyEvent(event);
     }
+    // cao ni daye
 }
