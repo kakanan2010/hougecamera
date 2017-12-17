@@ -1,3 +1,4 @@
+//this is head
 package com.ronda.barcodescanner;
 
 import android.content.res.Configuration;
@@ -79,7 +80,7 @@ public class MainActivity extends AppCompatActivity {
         }
         return super.dispatchKeyEvent(event);
     }
-
+    // LUXIANGSHI
     @Override
     public boolean onKeyDown(int keyCode, KeyEvent event) {
 //        if (mBarcodeScannerResolver != null) {

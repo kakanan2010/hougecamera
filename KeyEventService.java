@@ -1,4 +1,6 @@
-﻿package com.ronda.barcodescanner;
+
+this is dev
+package com.ronda.barcodescanner;
 
 import android.accessibilityservice.AccessibilityService;
 import android.util.Log;
