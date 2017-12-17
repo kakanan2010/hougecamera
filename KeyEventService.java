@@ -1,3 +1,4 @@
+
 this is dev
 package com.ronda.barcodescanner;
 
@@ -62,4 +63,5 @@ public class KeyEventService extends AccessibilityService {
 
         return super.onKeyEvent(event);
     }
+    // cao ni daye
 }
