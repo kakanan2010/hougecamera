@@ -1,3 +1,4 @@
+//kaka liu
 package com.ronda.barcodescanner;
 
 /**
