@@ -1,3 +1,4 @@
+//this is head
 package com.ronda.barcodescanner;
 
 import android.content.res.Configuration;
